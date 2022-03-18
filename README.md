@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://your-solution-url.com)
+- Solution URL:(https://github.com/Priya366/Stats-card)
 - Live Site URL:(https://stats-card-m.netlify.app/)
 
 ## My process
